@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\bin\Debug\net6.0\ListInt.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\bin\Debug\net6.0\ListInt.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\bin\Debug\net6.0\ListInt.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\bin\Debug\net6.0\ListInt.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\bin\Debug\net6.0\ListInt.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\refint\ListInt.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ListInt.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task12 - ListInt\ListInt\ListInt\obj\Debug\net6.0\ref\ListInt.dll
